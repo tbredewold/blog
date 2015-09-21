@@ -51,7 +51,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'laravel_blog',
 			'username'  => 'root',
-			'password'  => 'fakepass',
+			'password'  => 'rootpass',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
