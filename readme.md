@@ -1,4 +1,6 @@
-## Laravel PHP Framework
+## Just a simple blog
+
+**This is just a simple blog using the Laravel PHP Framework and a tutorial from [Joost van Veen](http://tutsplus.com/authors/joost-van-veen).**
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
